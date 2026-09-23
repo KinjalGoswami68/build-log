@@ -5,3 +5,4 @@ Daily log of small things I build, break, or learn while becoming an ML/software
 ## Log
 
 - **2026-09-22**: Started this log. Set up the repo.
+- - **2026-09-23**: Learned PyTorch basics, worked through a DSA lecture.
