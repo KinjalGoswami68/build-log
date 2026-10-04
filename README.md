@@ -11,3 +11,4 @@ Daily log of small things I build, break, or learn while becoming an ML/software
 - **2026-09-29**: Interacted on Twitter, continued ML revision.
 - **2026-10-01**: Practiced DSA, continued ML, researched GSoC orgs to target.
 - **2026-10-02**: Finished an ML topic/module, worked on making my GitHub profile more attractive.
+- **2026-10-04**: Internship work, completed ML revision, DSA with notes.
