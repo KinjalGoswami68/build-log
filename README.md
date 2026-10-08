@@ -15,3 +15,4 @@ Daily log of small things I build, break, or learn while becoming an ML/software
 - **2026-10-05**: Read about API's in detail
 - **2026-10-06**: Meetings, DSA, Deep learning
 - **2026-10-07**: Deep learning, system design
+- **2026-10-08**: Intern task, meetings, CNN, RNN, DSA
