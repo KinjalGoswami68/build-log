@@ -19,3 +19,4 @@ Daily log of small things I build, break, or learn while becoming an ML/software
 - **2026-10-09**: RNN, System design
 - **2026-10-11**: Agentic AI
 - **2026-10-12**: Agentic AI
+- **2026-10-13**: Agentic AI, Working on project
